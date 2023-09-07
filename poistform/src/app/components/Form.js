@@ -6,7 +6,7 @@ export default function Form() {
 const [koren, setKoren] = useState(false)
 
   return (
-    <div className="w-full flex justify-center py-20">
+    <div className="w-full flex justify-center py-20 bg-white">
         <div className="w-11/12 lg:w-3/5">
          <h2 className="text-2xl font-bold">Aktualizácia kontaktov</h2>
          <p>Vážený klient, pre jednoduchšiu komunikáciu s poisťovňou Vás prosíme o aktualizáciu alebo poskytnutie Vašich kontaktných údajov.</p>
